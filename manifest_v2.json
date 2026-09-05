@@ -10,8 +10,8 @@
       "media/70393.jpg",
       "media/70417.png"
     ],
-    "icon": "media/70416.png",
-    "cover": "media/70419.jpg",
+    "icon": "media/70439.png",
+    "cover": "media/70447.jpg",
     "author": [
       {
         "name": "bandbbs_4629874",
@@ -22,9 +22,9 @@
   "links": [],
   "downloads": {
     "xmb9": {
-      "version": "6.0.0",
-      "file_name": "downloads/小米手环9计算器-12.rpk",
-      "versionCode": 15
+      "version": "7.1.0",
+      "file_name": "downloads/小米手环9计算器.rpk",
+      "versionCode": 17
     }
   },
   "ext": {}
