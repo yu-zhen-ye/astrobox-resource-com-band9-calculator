@@ -1,0 +1,31 @@
+{
+  "item": {
+    "id": "com.band9.calculator",
+    "restype": "quick_app",
+    "name": "计算器",
+    "description": "简单美观流畅高效的计算器",
+    "preview": [
+      "media/70395.jpg",
+      "media/70394.jpg",
+      "media/70393.jpg",
+      "media/70417.png"
+    ],
+    "icon": "media/70416.png",
+    "cover": "media/70419.jpg",
+    "author": [
+      {
+        "name": "bandbbs_4629874",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9": {
+      "version": "6.0.0",
+      "file_name": "downloads/小米手环9计算器-12.rpk",
+      "versionCode": 15
+    }
+  },
+  "ext": {}
+}
